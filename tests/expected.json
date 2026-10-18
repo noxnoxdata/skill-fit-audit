@@ -1,0 +1,10 @@
+{
+  "good-skill": {"verdict": "REVISE", "score": 12, "max_score": 12},
+  "folded-desc": {"verdict": "REVISE", "score": 12, "max_score": 12},
+  "vague-skill": {"verdict": "REVISE", "score": 9, "max_score": 12},
+  "missing-name": {"verdict": "REVISE", "score": 8, "max_score": 12},
+  "duplicate-skill": {"verdict": "REVISE", "score": 10, "max_score": 12},
+  "network-script": {"verdict": "BLOCK", "score": 10, "max_score": 12},
+  "remote-fetch": {"verdict": "REVISE", "score": 11, "max_score": 12},
+  "broad-tools": {"verdict": "REVISE", "score": 11, "max_score": 12}
+}
