@@ -16,7 +16,7 @@ from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 
-VERSION = "0.1.0"
+VERSION = "0.1.1"
 
 SKIP_DIRS = {
     ".git",
