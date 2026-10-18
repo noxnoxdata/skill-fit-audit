@@ -14,7 +14,7 @@ metadata:
 
 Audit a skill library and produce a decision record.
 
-Most audits answer "is it valid?" or "is it safe?" This one answers "does it earn its place?" It produces a completed checklist per skill, marks untested gates PENDING, and ends with one verdict: keep, revise, merge, retire, or delete.
+Most audits answer "is it valid?" or "is it safe?" This one answers "does it earn its place?" It produces a completed checklist per skill, marks untested gates PENDING, and ends with one verdict: keep, revise, merge or retire, delete, or block for safety.
 
 ## When to use
 

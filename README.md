@@ -8,7 +8,7 @@ An agent skill can pass the spec, pass the security scanner, and still be a bad 
 
 `skill-fit-audit` audits the fit.
 
-It produces a completed eight-gate checklist per skill and one decision: keep, revise, merge, retire, or delete. Untested behavioral gates are marked `PENDING`. No behavioral test, no keep.
+It produces a completed eight-gate checklist per skill and one decision: keep, revise, merge or retire, delete, or block for safety. Untested behavioral gates are marked `PENDING`. No behavioral test, no keep.
 
 ## Why this exists
 
