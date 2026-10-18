@@ -187,6 +187,8 @@ The tool does not get a pass it would not give another skill.
 
 Experimental, version 0.1.1. The static pass is implemented. The behavioral pass is a protocol the agent runs, not a script. If you use it on a library, open an issue with the card and what you learned.
 
+Security note: the first Snyk audit flagged two test fixtures that were removed in 0.1.1. The re-audit is requested in [vercel-labs/skills#2531](https://github.com/vercel-labs/skills/issues/2531). See [SECURITY.md](SECURITY.md).
+
 ## License
 
 MIT. See [LICENSE](LICENSE).

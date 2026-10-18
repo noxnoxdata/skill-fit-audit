@@ -17,7 +17,7 @@ The first Snyk audit on 18 October 2026 flagged two test fixtures:
 
 Both were removed in 0.1.1. The safety tests now generate those strings at runtime, in a temporary directory, so the repository contains no dangerous command and no runtime instruction to fetch a remote URL.
 
-The first audit is a false positive caused by the fixtures. A re-audit has been requested. Gen Agent Trust Hub passed the first audit, and Socket returned a warning about the same fixtures.
+The first audit is a false positive caused by the fixtures. A re-audit has been requested in [vercel-labs/skills#2531](https://github.com/vercel-labs/skills/issues/2531). Gen Agent Trust Hub passed the first audit, and Socket returned a warning about the same fixtures.
 
 This is also a useful example of the skill's own boundary: a static scanner cannot tell a test fixture from a live instruction without context.
 
