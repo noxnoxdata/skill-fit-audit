@@ -1,5 +1,7 @@
 # skill-fit-audit
 
+[![skills.sh](https://skills.sh/b/noxnoxdata/skill-fit-audit)](https://skills.sh/noxnoxdata/skill-fit-audit)
+
 **Safe and valid is not the same as worth keeping.**
 
 An agent skill can pass the spec, pass the security scanner, and still be a bad skill. It can be vague, duplicate another skill, fire on the wrong task, or cost attention on every request without earning it.
