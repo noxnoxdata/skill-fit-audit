@@ -185,7 +185,7 @@ The tool does not get a pass it would not give another skill.
 
 ## Status
 
-Experimental, version 0.1.0. The static pass is implemented. The behavioral pass is a protocol the agent runs, not a script. If you use it on a library, open an issue with the card and what you learned.
+Experimental, version 0.1.1. The static pass is implemented. The behavioral pass is a protocol the agent runs, not a script. If you use it on a library, open an issue with the card and what you learned.
 
 ## License
 

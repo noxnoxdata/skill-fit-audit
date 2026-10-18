@@ -5,7 +5,7 @@ license: MIT
 compatibility: Requires Python 3.9+ for the static audit script. No network access. Does not execute audited code.
 metadata:
   author: noxnoxdata
-  version: "0.1.0"
+  version: "0.1.1"
   status: experimental
   last_reviewed: "2026-10-18"
 ---
